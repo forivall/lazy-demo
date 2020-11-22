@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="2.0"
+  xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="en-US">
+  <file id="ngi18n" original="ng.template">
+    <unit id="6563391987554512024">
+      <notes>
+        <note category="location">src/app/lazy/lazy.component.ts:9</note>
+      </notes>
+      <segment>
+        <source>Test</source>
+        <target>Translated</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
